@@ -1,1 +1,2 @@
 This line of text was entered into this text file while in the main branch
+This line of text was added while in feature-conflict branch
